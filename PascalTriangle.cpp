@@ -1,6 +1,6 @@
 /*Solution 1: Find the element present at the particular row and coloumn*/
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int factorial(int n){
@@ -38,3 +38,5 @@ int main(int argc, char const *argv[])
     return 0;
 }
 
+/*Solution 2: Generate the particular row of the Pascal Triangle*/
+/*Brute Force*/
